@@ -1,0 +1,13 @@
+{
+  "pagador": {
+    "nome": "José Bonifácio de Andrada",
+    "registroNacional": "12345678",
+    "endereco": {
+      "logradouro": "Rua Pedro Lessa, 15",
+      "bairro": "Centro",
+      "cidade": "Rio de Janeiro",
+      "estadoUF": "RJ",
+      "cep": "20030-030"
+    }
+  }
+}
